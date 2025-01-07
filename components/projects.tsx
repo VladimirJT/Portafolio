@@ -10,27 +10,21 @@ export default function Projects() {
 
   const projects = [
     {
-      title: "E-commerce Platform",
+      title: "E-commerce",
       description: "Plataforma de comercio electrónico con carrito y pasarela de pago.",
       image: "/images/fondo1.png",
-      link: "https://github.com/yourusername/ecommerce-platform"
+      link: "https://github.com/VladimirJT/ClothesVod"
     },
     {
-      title: "Task Manager App",
-      description: "App de gestión de tareas con autenticación y almacenamiento en la nube.",
-      image: "/images/fondo2.png",
-      link: "https://github.com/yourusername/task-manager-app"
-    },
-    {
-      title: "Portfolio Website",
+      title: "Portafolio Website",
       description: "Sitio web de portafolio personal con diseño responsive.",
-      image: "/placeholder.svg?height=150&width=250",
-      link: "https://github.com/yourusername/portfolio-website"
+      image: "/images/portafolio.png",
+      link: "https://github.com/VladimirJT/Portafolio"
     },
     {
       title: "Weather Dashboard",
       description: "Dashboard de clima con datos en tiempo real y pronósticos.",
-      image: "/placeholder.svg?height=150&width=250",
+      image: "/images/fondo2.png",
       link: "https://github.com/yourusername/weather-dashboard"
     }
   ]
